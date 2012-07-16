@@ -2,7 +2,7 @@ exports.sampleResponse =
   [
     {
       "address":[
-        "18a St JOE Park",
+        "18a St CIAN Park",
         "Waterford City",
         "Waterford City"
       ],
